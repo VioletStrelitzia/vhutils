@@ -1,4 +1,4 @@
-
+#  
 def init_env(env_id):
     if env_id == "VirtualHome-v1":
         action_template = [
